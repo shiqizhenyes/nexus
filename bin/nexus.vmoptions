@@ -12,9 +12,9 @@
 -Dkaraf.base=.
 -Dkaraf.etc=etc/karaf
 -Djava.util.logging.config.file=etc/karaf/java.util.logging.properties
--Dkaraf.data=../../../share/sonatype-work/nexus3
--Dkaraf.log=../../../share/sonatype-work/nexus3/log
--Djava.io.tmpdir=../../../share/sonatype-work/nexus3/tmp
+-Dkaraf.data=../../../../share/sonatype-work/nexus3
+-Dkaraf.log=../../../../share/sonatype-work/nexus3/log
+-Djava.io.tmpdir=../../../../share/sonatype-work/nexus3/tmp
 -Dkaraf.startLocalConsole=false
 -Djdk.tls.ephemeralDHKeySize=2048
 #
