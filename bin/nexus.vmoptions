@@ -4,7 +4,7 @@
 -XX:MaxDirectMemorySize=2703m
 -XX:+UnlockDiagnosticVMOptions
 -XX:+LogVMOutput
--XX:LogFile=../sonatype-work/nexus3/log/jvm.log
+-XX:LogFile=../../../../share/sonatype-work/nexus3/log/jvm.log
 -XX:-OmitStackTraceInFastThrow
 -XX:-MaxFDLimit
 -Djava.net.preferIPv4Stack=true
