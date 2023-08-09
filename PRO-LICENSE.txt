@@ -8,6 +8,7 @@ IF COMPANY DOES NOT AGREE TO ALL OF THESE TERMS AND CONDITIONS, DO NOT CLICK TO 
 IF COMPANY HAS ENTERED INTO A SEPARATE WRITTEN AGREEMENT WITH SONATYPE FOR USE OF THE PRODUCT OR SERVICES, THE TERMS AND CONDITIONS OF SUCH OTHER AGREEMENT SHALL PREVAIL OVER ANY CONFLICTING TERMS OR CONDITIONS IN THIS AGREEMENT.
 
 This Agreement is entered into by Company and Sonatype, Inc. ("Sonatype") and governs Company's use of and access to all Products to which Company has requested access and/or for which Company has purchased a subscription as well as the provision of related Services.
+
 DEFINITIONS
 
 "Affiliates" means any entity that is controlled by, under the control of, or under common control with a Party where "control" means ownership of, or the right to control, greater than 50% of the voting securities of such entity.
